@@ -1,0 +1,3 @@
+snscrape
+tweepy==3.10.0
+twint
